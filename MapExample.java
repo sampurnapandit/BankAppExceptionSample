@@ -5,7 +5,7 @@ public class MapExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String sid[]= {"s1","s2","s3","s4","s5"};//Array containing student id
-		int marks[]= {78,89,70,56,63};
+		int marks[]= {78,89,70,56,63};//Array containing marks
 		
 		HashMap h=new HashMap();
 		for(int i=0;i<sid.length;i++)//iterating from the Arrays
